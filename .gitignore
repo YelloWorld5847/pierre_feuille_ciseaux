@@ -1,0 +1,7 @@
+.venv
+.idea
+__pycache__
+
+emoji_to_img.py
+emoji_image.png
+emoji_with_color_enhanced.png
